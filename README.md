@@ -1,4 +1,4 @@
-👋 Hi, I’m Ricardo Moreira, a 26-year-old software development enthusiast from Porto, Portugal (currently living in Germany).
+👋 Hi, I’m Ricardo Moreira, a 26-year-old software development enthusiast/student at Code Institute from Porto, Portugal (currently living in Germany).
 
 💻 With a strong passion for technology and a focus on problem-solving, I’m actively expanding my skills in React.js and web development. I bring knowledge in HTML5, CSS, JavaScript, Python, and Django, along with proficiency in working with PostgreSQL databases, MongoDB, and deploying applications on platforms like Heroku and Gitpod.
 
